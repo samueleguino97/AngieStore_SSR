@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["ebcf"],{O2ls:function(n,u,e){"use strict";e.r(u);var t=e("q1tI"),i=e.n(t);u.default=function(){return i.a.createElement("div",null,"Login")}},u6Hu:function(n,u,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/login",function(){var n=e("O2ls");return{page:n.default||n}}])}},[["u6Hu","5d41","9da1"]]]);
